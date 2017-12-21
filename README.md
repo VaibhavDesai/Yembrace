@@ -23,7 +23,7 @@ The cloud-based web platform provided the clients with our product with a featur
 
 
 Some of the screenshots of the App.
-![architecture](https://github.com/VaibhavDesai/Yembrace/blob/master/images/Screen%20Shot%202017-12-20%20at%205.17.46%20PM.png)
+![architecture](/images/Screen%20Shot%202017-12-20%20at%205.17.46%20PM.png)
 
 ![webApp](https://github.com/VaibhavDesai/Yembrace/blob/master/images/Screen%20Shot%202017-12-20%20at%205.20.14%20PM.png)
 
