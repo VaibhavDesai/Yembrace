@@ -23,11 +23,11 @@ The cloud-based web platform provided the clients with our product with a featur
 
 
 Some of the screenshots of the App.
-![architecture]({{site.url}}{{site.baseurl}}/images/Screen%20Shot%202017-12-20%20at%205.17.46%20PM.png)
+![architecture](https://github.com/VaibhavDesai/Yembrace/blob/master/images/Screen%20Shot%202017-12-20%20at%205.17.46%20PM.png?raw=true "Img1")
 
-![webApp]({{site.url}}{{site.baseurl}}/images/Screen%20Shot%202017-12-20%20at%205.20.14%20PM.png)
+![webApp](https://github.com/VaibhavDesai/Yembrace/blob/master/images/Screen%20Shot%202017-12-20%20at%205.20.14%20PM.png?raw=true "Img1")
 
-![src1]({{site.url}}{{site.baseurl}}/images/Screen%20Shot%202017-12-20%20at%205.17.07%20PM.png)
+![src1](https://github.com/VaibhavDesai/Yembrace/blob/master/images/Screen%20Shot%202017-12-20%20at%205.17.07%20PM.png?raw=true "Img1")
 
 
 **Challenges to this approach**:
