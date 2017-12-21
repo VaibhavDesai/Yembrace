@@ -29,9 +29,6 @@ Some of the screenshots of the App.
 
 ![src1](https://github.com/VaibhavDesai/Yembrace/blob/master/images/Screen%20Shot%202017-12-20%20at%205.17.07%20PM.png)
 
-![src2](https://github.com/VaibhavDesai/Yembrace/blob/master/images/Screen%20Shot%202017-12-20%20at%205.50.21%20PM.png)
-
-![src3](https://github.com/VaibhavDesai/Yembrace/blob/master/images/Screen%20Shot%202017-12-20%20at%205.50.14%20PM.png)
 
 Challenges to this approach:
 * It is limited to the Bluetooth/beacon technology. Though we extended this to the wifi stack was a router acted as a beacon. But the potential limitation was that the wifi/Bluetooth adapter must be switch on the devices of the customer. 
