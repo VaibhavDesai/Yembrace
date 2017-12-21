@@ -1,7 +1,7 @@
 # Yembrace
 This was the project that I worked on in my undergraduate and was funded by Innohabit Technologies.
 
-The objective of this product was to enhance Offline Retail Marketing and overcome some of the challenges.
+The objective of this product was to **enhance Offline Retail Marketing** and overcome some of the challenges.
 
 * Crowd management over the festivals and weekends and lack of visibility into balking rate and window shoppers.
 * Lack of visibility into consolidating feedback from customers.
@@ -12,7 +12,7 @@ Our solution was to develop a strategy that focuses on the potential customers w
 
 This product used Bluetooth technology to reach a potential customer. Once a visitor is within a certain proximity of the space, a message or information is sent to their mobile devices automatically. It sends the concise information about the product and promotions to the customers. 
 
-Some of the key benefits of this product were:
+Some of the **key benefits** of this product were:
 * Increase in footfall, as the window shopper were attracted into the store with attractive personalized offers.
 * Conversion, Contextual ads and offers influenced last minute impulsive buyers.
 * Feedback, push feedback from the customer as he walks out of the store.
@@ -30,7 +30,7 @@ Some of the screenshots of the App.
 ![src1](https://github.com/VaibhavDesai/Yembrace/blob/master/images/Screen%20Shot%202017-12-20%20at%205.17.07%20PM.png)
 
 
-Challenges to this approach:
+**Challenges to this approach**:
 * It is limited to the Bluetooth/beacon technology. Though we extended this to the wifi stack was a router acted as a beacon. But the potential limitation was that the wifi/Bluetooth adapter must be switch on the devices of the customer. 
 * It was limited to the smartphone devices using Android. Though we were involved in developing an IOS app.
 * The initial investment of installation of beacons all around the store was significant.
